@@ -1,8 +1,6 @@
 <html>
 <body>
- 
 	  <title>专业志向</title>
-	  <br>
 	  <h1>专业志向----刘学警</h1>
 <h2>0）关于为何选择计算机相关专业：</h2>
 <blockquote>
